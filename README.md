@@ -1,7 +1,6 @@
 # Lab 5 - ETL Pipeline with Cloud Functions
 
 **Submitted by:** Vishal Singh Rajpurohit  
-**Course:** MLOps  
 **Date:** November 17, 2025
 
 ## Custom Enhancement Added
