@@ -1,0 +1,3 @@
+{"id": 1, "first_name": "Viraj", "last_name": "Bhutada", "dob": "2000-01-15", "addresses": [{"status": "current", "address": "360 Huntington Ave", "city": "Boston", "state": "MA", "zip": 02115, "numberOfYears": 2}]}
+{"id": 2, "first_name": "John", "last_name": "Doe", "dob": "1995-06-20", "addresses": [{"status": "previous", "address": "123 Main St", "city": "Cambridge", "state": "MA", "zip": 02139, "numberOfYears": 3}, {"status": "current", "address": "456 Oak Ave", "city": "Somerville", "state": "MA", "zip": 02144, "numberOfYears": 1}]}
+{"id": 3, "first_name": "Jane", "last_name": "Smith", "dob": "1998-11-30", "addresses": [{"status": "current", "address": "789 Pine Rd", "city": "Brookline", "state": "MA", "zip": 02445, "numberOfYears": 4}]}
